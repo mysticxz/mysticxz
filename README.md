@@ -2,9 +2,7 @@
 function test() {
   console.log("notice the blank line before this function?");
 }
-```-
-'''print('Teste')'''
-### Hi there 👋
+```
 
 <!--
 **mysticxz/mysticxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
